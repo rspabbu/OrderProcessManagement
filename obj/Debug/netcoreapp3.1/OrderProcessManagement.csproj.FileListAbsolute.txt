@@ -8,10 +8,6 @@ C:\Users\Ramesh Pabbu\source\repos\OrderProcessManagement\obj\Debug\netcoreapp3.
 C:\Users\Ramesh Pabbu\source\repos\OrderProcessManagement\obj\Debug\netcoreapp3.1\OrderProcessManagement.RazorTargetAssemblyInfo.cache
 C:\Users\Ramesh Pabbu\source\repos\OrderProcessManagement\obj\Debug\netcoreapp3.1\staticwebassets\OrderProcessManagement.StaticWebAssets.Manifest.cache
 C:\Users\Ramesh Pabbu\source\repos\OrderProcessManagement\obj\Debug\netcoreapp3.1\staticwebassets\OrderProcessManagement.StaticWebAssets.xml
-C:\Users\Ramesh Pabbu\source\repos\OrderProcessManagement\bin\Debug\netcoreapp3.1\xunit.abstractions.dll
-C:\Users\Ramesh Pabbu\source\repos\OrderProcessManagement\bin\Debug\netcoreapp3.1\xunit.assert.dll
-C:\Users\Ramesh Pabbu\source\repos\OrderProcessManagement\bin\Debug\netcoreapp3.1\xunit.core.dll
-C:\Users\Ramesh Pabbu\source\repos\OrderProcessManagement\bin\Debug\netcoreapp3.1\xunit.execution.dotnet.dll
 C:\Users\Ramesh Pabbu\source\repos\OrderProcessManagement\obj\Debug\netcoreapp3.1\OrderProcessManagement.csproj.CopyComplete
 C:\Users\Ramesh Pabbu\source\repos\OrderProcessManagement\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
 C:\Users\Ramesh Pabbu\source\repos\OrderProcessManagement\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll

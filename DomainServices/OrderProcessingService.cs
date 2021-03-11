@@ -44,7 +44,7 @@ namespace OrderProcessManagement.DomainServices
             var paymentStatus = _processPaymentService.ChargePayment(orderDetails.PaymentDetails.CreditCardNumber, orderDetails.OrderTotal);
 
             if (!paymentStatus)
-                new OrderprocessStatus
+                return new OrderprocessStatus
                 {
                     IsSuccess = false,
                     ProcessingStatusMessage = $"Payment Process failed"
